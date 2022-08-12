@@ -301,6 +301,6 @@ p {
 }
 @media screen and (max-width: 560px) {
   .ftr {
-    font-size: 7px;
+    font-size: 10px;
   }
 }
